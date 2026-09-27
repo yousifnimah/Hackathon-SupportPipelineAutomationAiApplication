@@ -45,7 +45,7 @@ The result contains:
 - **Assigned department**
 - **Arabic draft report**
 
-### Example
+### Example of Expected Response
 
 ```json
 {
