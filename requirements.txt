@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+python-dotenv
+fastapi
+uvicorn[standard]
